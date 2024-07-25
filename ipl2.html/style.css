@@ -1,0 +1,59 @@
+.miplayerspic{
+    width: 300px;
+    height: 300px;
+}
+.miplayersdiv{
+    width: 300px;
+    height: 600px;
+    background-color: blue;
+    border: 10px solid lightblue;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+    padding: 20px;
+    text-align: justify;
+    background-image: url("./images/Mumbai-Indians-Logo.png");
+    background-size: 100px;
+    background-position: center;
+}
+#mi{
+    background-color: blue;
+    border: 10px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px blue;
+}
+#body{
+    background-image: url("./images/ipl.jpg");
+    background-position: center;
+}
+.shplayerdiv{
+    width: 300px;
+    height: 600px;
+    background-color: orangered;
+    border: 10px solid red;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+    padding: 20px;
+    text-align: justify;
+    background-image: url("./images/sssssssssssssssssssssssssss.png");
+    background-size: 100px;
+    background-position: center;
+}
+.shplayerpic{
+    width: 300px;
+    height: 300px;
+}
+#srh{    background-color: orangered;
+    border: 10px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px orangered;
+  
+}
+p:hover{
+    background-color: green;
+    color: yellow;
+}
+p{
+    color: yellow;
+}
